@@ -1,0 +1,7 @@
+secretId: ""
+secretKey: ""
+prefix: ""
+srcPath: ""
+region: ""
+bucket: ""
+enableLog: true
