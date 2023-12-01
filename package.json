@@ -1,6 +1,6 @@
 {
   "name": "upload-ten-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "使用脚本命令将文件上传到腾讯对象储存上",
   "main": "./dist/src/index.js",
   "bin": {
