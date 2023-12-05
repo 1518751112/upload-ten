@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 import {Tool,MinioInfo} from "../src";
 import * as yamljs from 'yamljs'
 const [configFile] = process.argv.slice(2)
